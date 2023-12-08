@@ -1,4 +1,4 @@
-<h1 align="center">Hello Myslef Kirtan Patel</h1>
+<h1 align="center">Hello Myself Kirtan Patel</h1>
 <h3 align="center">Computer Programmer (Problem Solver/Team Work Ability/Communicator)</h3>
 
 - My Portfolio [Website (HTML/CSS/JS)](https://imkp004.github.io/My_Portfolio/Portfolio/index.html)
